@@ -1,4 +1,3 @@
-import Experience from "./Experience"
 
 const Skills = _ => {
     return (
